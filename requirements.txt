@@ -1,0 +1,5 @@
+numpy>=1.26
+mcp>=2.0
+sentence-transformers>=3.0
+torch>=2.2
+pytest>=8.0
